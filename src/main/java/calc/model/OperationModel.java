@@ -1,4 +1,4 @@
-package model;
+package calc.model;
 
 public class OperationModel {
 

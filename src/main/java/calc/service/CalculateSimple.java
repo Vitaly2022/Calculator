@@ -1,6 +1,6 @@
-package service;
+package calc.service;
 
-import model.OperationModel;
+import calc.model.OperationModel;
 import org.springframework.stereotype.Service;
 
 
